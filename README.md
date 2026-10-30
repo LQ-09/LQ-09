@@ -18,7 +18,7 @@ The private IBKR working repository records October 2026 changes to execution ev
 
 An open-source native desktop app for coordinating Codex CLI, Claude Code and compatible text-model APIs through planning, execution and review. Start on one computer and add SSH execution environments when needed, with task timelines, structured handoffs and explicit acceptance of results.
 
-The current preview includes an Apple Silicon macOS app, signed in-app updates, Chinese/English interfaces and adjustable text sizes. Account usage visibility and model/effort controls are in development. Agent execution is currently read-only; broader orchestration and cross-host recovery remain active engineering work.
+The current preview includes an Apple Silicon macOS app, signed in-app updates, Chinese/English interfaces and adjustable text sizes. Account usage panels display CLI-reported subscription limits when available, and task-level model/effort controls support configurable agent defaults. Agent execution is currently read-only; broader orchestration and cross-host recovery remain active engineering work.
 
 [Source and setup guide](https://github.com/LQ-09/multi-agent-control-center#readme) · [Download releases](https://github.com/LQ-09/multi-agent-control-center/releases)
 
